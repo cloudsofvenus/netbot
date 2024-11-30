@@ -18,7 +18,7 @@ Requirements
 
 Supports
 --
-- Tested on Debian, Ubuntu, CentOS and MacOS High Sierra.
+- Tested on Debian, Ubuntu, CentOS and MacOS High Sierra, Windows 10 IOT,
 
 FYI - *Prototype Warning*
 --
@@ -38,6 +38,7 @@ How do I setup/test _NetBot_?
 - You can test this software in a single machine itself, but the ultimate point of this software to deploy the client (bots) on different machines and the server code (CCC) on your machine.
   - **very important** Make sure you modify the CCC server address on the _netbot_client.py_ code, else the bots will not connect to your CCC.
 - More to be added in Wiki section soon.
+- You will need install termcolor, using pip install termcolor
 
 
 
